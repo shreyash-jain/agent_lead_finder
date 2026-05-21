@@ -1,0 +1,111 @@
+{
+  "slug": "qatar_online_edu",
+  "created_at": "2026-05-20T10:30:00Z",
+  "last_activity_at": "2026-05-21T06:03:18Z",
+  "stages": {
+    "plan": {
+      "done": true,
+      "done_at": "2026-05-20T12:13:00Z",
+      "query_count": 40
+    },
+    "search": {
+      "runs": [
+        {
+          "at": "2026-05-20T07:36:20Z",
+          "queries_run": 40,
+          "results": 479,
+          "failed": 0
+        }
+      ],
+      "executed_queries": [
+        "maps|acca institute|doha, qatar",
+        "maps|coding academy|al rayyan, qatar",
+        "maps|coding academy|doha, qatar",
+        "maps|english language center|lusail, qatar",
+        "maps|ib tutor|doha, qatar",
+        "maps|ielts center|doha, qatar",
+        "maps|ielts preparation|al rayyan, qatar",
+        "maps|igcse tuition|doha, qatar",
+        "maps|kids coding|lusail, qatar",
+        "maps|language institute|al rayyan, qatar",
+        "maps|language institute|doha, qatar",
+        "maps|language school|al khor, qatar",
+        "maps|pmp training|doha, qatar",
+        "maps|professional training center|doha, qatar",
+        "maps|robotics class|doha, qatar",
+        "maps|stem academy|al wakrah, qatar",
+        "maps|stem education center|doha, qatar",
+        "maps|training institute|lusail, qatar",
+        "maps|tutoring center|al rayyan, qatar",
+        "maps|tutoring center|doha, qatar",
+        "search|acca classes qatar|",
+        "search|arabic language school qatar online|",
+        "search|cfa preparation doha|",
+        "search|coding academy qatar online|",
+        "search|cybersecurity training qatar|",
+        "search|edtech startup qatar|",
+        "search|education technology company qatar|",
+        "search|english language institute doha|",
+        "search|ib tutors doha|",
+        "search|ielts training qatar|",
+        "search|igcse tutoring qatar online|",
+        "search|kids coding bootcamp qatar|",
+        "search|online education startup doha|",
+        "search|online tutoring service qatar|",
+        "search|pmp training qatar online|",
+        "search|qatar edtech founders|",
+        "search|robotics classes for kids qatar|",
+        "search|sat prep qatar|",
+        "search|stem education provider doha|",
+        "search|toefl preparation qatar|"
+      ]
+    },
+    "normalize": {
+      "runs": [
+        {
+          "at": "2026-05-20T12:24:00Z",
+          "raw_files": 1,
+          "raw_results": 479,
+          "total_leads": 283,
+          "new_leads": 283
+        }
+      ]
+    },
+    "enrich.phones": {
+      "runs": [
+        {
+          "at": "2026-05-20T13:30:00Z",
+          "scanned": 247,
+          "phones_added": 22,
+          "whatsapps_added": 18
+        }
+      ]
+    },
+    "enrich.linkedin": {
+      "runs": [
+        {
+          "at": "2026-05-20T14:52:00Z",
+          "scanned": 283,
+          "found": 92
+        }
+      ]
+    },
+    "enrich.emails": {
+      "runs": [
+        {
+          "at": "2026-05-20T14:10:00Z",
+          "scanned": 247,
+          "found": 140
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total_leads": 283,
+    "with_website": 247,
+    "with_phone": 203,
+    "with_whatsapp": 18,
+    "with_email": 140,
+    "with_linkedin": 92
+  }
+}

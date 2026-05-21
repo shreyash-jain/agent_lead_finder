@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Per-campaign outputs (briefs, plans, and state are versioned; raw + leads are not)
+campaigns/*/raw/
+campaigns/*/leads.csv
+campaigns/*/leads.csv.bak
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

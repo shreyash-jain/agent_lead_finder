@@ -1,0 +1,285 @@
+{
+  "brief_slug": "qatar_online_edu",
+  "queries": [
+    {
+      "type": "search",
+      "query": "coding academy Qatar online",
+      "location": null,
+      "segment": "STEM / coding",
+      "intent": "Find online coding schools operating in Qatar."
+    },
+    {
+      "type": "search",
+      "query": "robotics classes for kids Qatar",
+      "location": null,
+      "segment": "STEM / coding",
+      "intent": "Find robotics programs aimed at children, often hybrid online/offline."
+    },
+    {
+      "type": "search",
+      "query": "STEM education provider Doha",
+      "location": null,
+      "segment": "STEM / coding",
+      "intent": "Find STEM-focused training providers based in Doha (Edostream-style)."
+    },
+    {
+      "type": "search",
+      "query": "kids coding bootcamp Qatar",
+      "location": null,
+      "segment": "STEM / coding",
+      "intent": "Catch coding bootcamps marketed to children and teens."
+    },
+    {
+      "type": "maps",
+      "query": "coding academy",
+      "location": "Doha, Qatar",
+      "segment": "STEM / coding",
+      "intent": "Google Maps listings for coding schools in central Doha."
+    },
+    {
+      "type": "maps",
+      "query": "coding academy",
+      "location": "Al Rayyan, Qatar",
+      "segment": "STEM / coding",
+      "intent": "Google Maps listings for coding schools in Al Rayyan."
+    },
+    {
+      "type": "maps",
+      "query": "robotics class",
+      "location": "Doha, Qatar",
+      "segment": "STEM / coding",
+      "intent": "Robotics-focused providers visible on Maps in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "STEM education center",
+      "location": "Doha, Qatar",
+      "segment": "STEM / coding",
+      "intent": "Branded STEM centers on Maps in Doha metro."
+    },
+    {
+      "type": "maps",
+      "query": "kids coding",
+      "location": "Lusail, Qatar",
+      "segment": "STEM / coding",
+      "intent": "Catch newer providers in Lusail's developing residential areas."
+    },
+    {
+      "type": "maps",
+      "query": "STEM academy",
+      "location": "Al Wakrah, Qatar",
+      "segment": "STEM / coding",
+      "intent": "STEM providers in Al Wakrah's growing family neighborhoods."
+    },
+    {
+      "type": "search",
+      "query": "IGCSE tutoring Qatar online",
+      "location": null,
+      "segment": "Online tutoring",
+      "intent": "Find online IGCSE tutoring services serving Qatar expat families."
+    },
+    {
+      "type": "search",
+      "query": "IB tutors Doha",
+      "location": null,
+      "segment": "Online tutoring",
+      "intent": "Find IB-curriculum tutoring services, heavy expat demand in Qatar."
+    },
+    {
+      "type": "search",
+      "query": "SAT prep Qatar",
+      "location": null,
+      "segment": "Online tutoring",
+      "intent": "University entrance prep — Qatar students applying to US/global unis."
+    },
+    {
+      "type": "search",
+      "query": "online tutoring service Qatar",
+      "location": null,
+      "segment": "Online tutoring",
+      "intent": "Generic catch-all for online tutoring businesses in Qatar."
+    },
+    {
+      "type": "maps",
+      "query": "tutoring center",
+      "location": "Doha, Qatar",
+      "segment": "Online tutoring",
+      "intent": "Tutoring businesses listed on Maps in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "tutoring center",
+      "location": "Al Rayyan, Qatar",
+      "segment": "Online tutoring",
+      "intent": "Tutoring businesses in Al Rayyan."
+    },
+    {
+      "type": "maps",
+      "query": "IB tutor",
+      "location": "Doha, Qatar",
+      "segment": "Online tutoring",
+      "intent": "IB-specific tutors on Maps."
+    },
+    {
+      "type": "maps",
+      "query": "IGCSE tuition",
+      "location": "Doha, Qatar",
+      "segment": "Online tutoring",
+      "intent": "IGCSE-specific tutoring centers."
+    },
+    {
+      "type": "search",
+      "query": "IELTS training Qatar",
+      "location": null,
+      "segment": "Language training",
+      "intent": "IELTS prep — huge demand from expat workforce."
+    },
+    {
+      "type": "search",
+      "query": "English language institute Doha",
+      "location": null,
+      "segment": "Language training",
+      "intent": "General English training providers in Doha."
+    },
+    {
+      "type": "search",
+      "query": "TOEFL preparation Qatar",
+      "location": null,
+      "segment": "Language training",
+      "intent": "TOEFL-focused providers — students applying to US universities."
+    },
+    {
+      "type": "search",
+      "query": "Arabic language school Qatar online",
+      "location": null,
+      "segment": "Language training",
+      "intent": "Arabic-language teaching for expats living in Qatar."
+    },
+    {
+      "type": "maps",
+      "query": "language institute",
+      "location": "Doha, Qatar",
+      "segment": "Language training",
+      "intent": "Language-training businesses on Maps in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "language institute",
+      "location": "Al Rayyan, Qatar",
+      "segment": "Language training",
+      "intent": "Language-training businesses in Al Rayyan."
+    },
+    {
+      "type": "maps",
+      "query": "IELTS center",
+      "location": "Doha, Qatar",
+      "segment": "Language training",
+      "intent": "IELTS-specific centers in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "IELTS preparation",
+      "location": "Al Rayyan, Qatar",
+      "segment": "Language training",
+      "intent": "IELTS prep centers in Al Rayyan."
+    },
+    {
+      "type": "maps",
+      "query": "English language center",
+      "location": "Lusail, Qatar",
+      "segment": "Language training",
+      "intent": "English training in Lusail's newer expat zones."
+    },
+    {
+      "type": "maps",
+      "query": "language school",
+      "location": "Al Khor, Qatar",
+      "segment": "Language training",
+      "intent": "Language schools in Al Khor — industrial/expat catchment."
+    },
+    {
+      "type": "search",
+      "query": "PMP training Qatar online",
+      "location": null,
+      "segment": "Professional certification",
+      "intent": "PMP cert prep — Qatar's project-management workforce."
+    },
+    {
+      "type": "search",
+      "query": "CFA preparation Doha",
+      "location": null,
+      "segment": "Professional certification",
+      "intent": "CFA prep — Qatar's finance sector."
+    },
+    {
+      "type": "search",
+      "query": "ACCA classes Qatar",
+      "location": null,
+      "segment": "Professional certification",
+      "intent": "ACCA accounting cert — finance + audit workforce."
+    },
+    {
+      "type": "search",
+      "query": "cybersecurity training Qatar",
+      "location": null,
+      "segment": "Professional certification",
+      "intent": "Cybersecurity bootcamps and cert-prep providers."
+    },
+    {
+      "type": "maps",
+      "query": "professional training center",
+      "location": "Doha, Qatar",
+      "segment": "Professional certification",
+      "intent": "Professional-training businesses on Maps in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "PMP training",
+      "location": "Doha, Qatar",
+      "segment": "Professional certification",
+      "intent": "PMP-focused trainers in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "ACCA institute",
+      "location": "Doha, Qatar",
+      "segment": "Professional certification",
+      "intent": "ACCA-focused training institutes in Doha."
+    },
+    {
+      "type": "maps",
+      "query": "training institute",
+      "location": "Lusail, Qatar",
+      "segment": "Professional certification",
+      "intent": "General training institutes in Lusail's business zones."
+    },
+    {
+      "type": "search",
+      "query": "edtech startup Qatar",
+      "location": null,
+      "segment": "Startup edtech",
+      "intent": "Find young education-technology companies based in Qatar."
+    },
+    {
+      "type": "search",
+      "query": "online education startup Doha",
+      "location": null,
+      "segment": "Startup edtech",
+      "intent": "Find early-stage online education ventures launching in Doha."
+    },
+    {
+      "type": "search",
+      "query": "education technology company Qatar",
+      "location": null,
+      "segment": "Startup edtech",
+      "intent": "Catch self-described edtech companies operating in Qatar."
+    },
+    {
+      "type": "search",
+      "query": "Qatar edtech founders",
+      "location": null,
+      "segment": "Startup edtech",
+      "intent": "Surface founder profiles + interviews — common for early-stage edtech players."
+    }
+  ]
+}
